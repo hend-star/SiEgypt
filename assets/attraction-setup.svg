@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+  <title id="title">Custom family entertainment setup</title>
+  <desc id="desc">A colorful custom entertainment setup with kiosks, banners, lights, and playful shapes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#FFF7DF"/>
+      <stop offset="1" stop-color="#EAF3FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="440" rx="36" fill="url(#bg)"/>
+  <circle cx="98" cy="86" r="51" fill="#FF7A1A" opacity=".18"/>
+  <circle cx="542" cy="88" r="57" fill="#FFD23F" opacity=".8"/>
+  <path d="M105 153h431l-44 76H149Z" fill="#1266F1"/>
+  <path d="M147 228h347v124H147Z" fill="#FFFFFF"/>
+  <path d="M178 252h92v100h-92Z" fill="#EF4444"/>
+  <path d="M296 252h166v41H296Z" fill="#EAF3FF"/>
+  <path d="M296 313h166v39H296Z" fill="#EAF3FF"/>
+  <path d="M149 229h343" stroke="#071B3A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M138 352h371" stroke="#071B3A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M205 116c25-30 73-8 65 32H153c-9-37 27-57 52-32Z" fill="#fff"/>
+  <g fill="#22C55E">
+    <circle cx="185" cy="193" r="12"/>
+    <circle cx="246" cy="193" r="12"/>
+    <circle cx="307" cy="193" r="12"/>
+    <circle cx="368" cy="193" r="12"/>
+    <circle cx="429" cy="193" r="12"/>
+  </g>
+  <path d="M511 277l14 14 14-14 14 14" fill="none" stroke="#FF7A1A" stroke-width="8" stroke-linecap="round"/>
+</svg>

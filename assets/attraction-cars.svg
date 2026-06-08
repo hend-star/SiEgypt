@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+  <title id="title">Kids electric cars</title>
+  <desc id="desc">Colorful kids electric ride-on cars in a playful venue setting.</desc>
+  <rect width="640" height="440" rx="36" fill="#F7FAFF"/>
+  <circle cx="104" cy="90" r="58" fill="#FFD23F" opacity=".8"/>
+  <circle cx="520" cy="98" r="72" fill="#1266F1" opacity=".12"/>
+  <path d="M58 320h524v70H58Z" fill="#EAF3FF"/>
+  <path d="M106 240c8-41 43-71 86-71h84c38 0 72 23 87 58l9 21h29c32 0 58 26 58 58v17H91v-44c0-21 12-35 15-39Z" fill="#EF4444"/>
+  <path d="M382 247c7-35 38-61 74-61h45c37 0 69 25 78 60l11 43h-208Z" fill="#22C55E"/>
+  <rect x="177" y="196" width="80" height="46" rx="15" fill="#EAF3FF"/>
+  <rect x="462" y="211" width="50" height="38" rx="13" fill="#EAF3FF"/>
+  <circle cx="169" cy="326" r="38" fill="#071B3A"/>
+  <circle cx="169" cy="326" r="18" fill="#FFD23F"/>
+  <circle cx="389" cy="326" r="38" fill="#071B3A"/>
+  <circle cx="389" cy="326" r="18" fill="#FFD23F"/>
+  <circle cx="491" cy="326" r="34" fill="#071B3A"/>
+  <circle cx="491" cy="326" r="16" fill="#FFD23F"/>
+  <path d="M95 151l20 20 20-20 20 20" fill="none" stroke="#FF7A1A" stroke-width="9" stroke-linecap="round"/>
+  <path d="M488 146l18 18 18-18 18 18" fill="none" stroke="#1266F1" stroke-width="9" stroke-linecap="round"/>
+</svg>
