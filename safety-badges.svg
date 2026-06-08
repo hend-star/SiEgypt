@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+  <title id="title">Safety and compliance badges</title>
+  <desc id="desc">Trust-building safety badges and checks for family entertainment operations.</desc>
+  <rect width="640" height="440" rx="36" fill="#071B3A"/>
+  <circle cx="320" cy="216" r="118" fill="#1266F1"/>
+  <path d="M320 127l79 31v58c0 72-52 112-79 124-27-12-79-52-79-124v-58Z" fill="#FFFFFF"/>
+  <path d="M277 218l31 31 70-80" fill="none" stroke="#22C55E" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#FFD23F">
+    <circle cx="122" cy="129" r="39"/>
+    <circle cx="508" cy="129" r="39"/>
+    <circle cx="142" cy="318" r="39"/>
+    <circle cx="498" cy="318" r="39"/>
+  </g>
+  <g fill="#071B3A" font-family="Arial, sans-serif" font-size="36" font-weight="700" text-anchor="middle">
+    <text x="122" y="143">T</text>
+    <text x="508" y="143">I</text>
+    <text x="142" y="332">M</text>
+    <text x="498" y="332">24</text>
+  </g>
+</svg>
