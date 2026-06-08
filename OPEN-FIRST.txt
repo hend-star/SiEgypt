@@ -1,0 +1,27 @@
+OPEN THIS PROJECT AFTER EXTRACTING THE ZIP
+
+Do not open index.html directly from inside the ZIP archive.
+
+Why:
+When Windows opens a file from a ZIP, it can place index.html in a temporary
+folder such as:
+
+  C:\Users\...\AppData\Local\Temp\...\si-austral-website\index.html
+
+In that temporary ZIP preview location, the browser may not receive the sibling
+files that the website needs:
+
+  style.css
+  script.js
+  assets\*.svg
+
+Correct usage:
+1. Right-click the ZIP file.
+2. Choose "Extract All..."
+3. Open the extracted folder.
+4. Double-click index.html from the extracted folder.
+
+The fixed home page also includes a corrected title tag:
+
+  <title>SI EGYPTE | Family Entertainment Egypt</title>
+
